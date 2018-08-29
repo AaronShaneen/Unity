@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 3d7fd023c0a2f564fafafc9c32cce5a3
+timeCreated: 1531777961
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Sassoon Sans Slope Std
+  fontNames:
+  - Sassoon Sans Slope Std
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

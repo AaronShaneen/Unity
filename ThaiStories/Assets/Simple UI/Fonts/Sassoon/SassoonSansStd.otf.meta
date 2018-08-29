@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 84ba1d8e8497cbc43af4eef34ee56ae8
+timeCreated: 1531777961
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Sassoon Sans Std
+  fontNames:
+  - Sassoon Sans Std
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4c6655c26971ebe4fa543e3d84ef42c7, type: 3}
+  - {fileID: 12800000, guid: 1c31a22da06a79c49a629365812abf95, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

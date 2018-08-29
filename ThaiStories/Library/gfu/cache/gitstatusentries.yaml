@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1038538317, guid: b470ff522698e3f4b9e127455618cf2b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  lastUpdatedAtString: 2018-04-15T17:42:24.3945759-06:00
+  lastVerifiedAtString: 2018-04-15T17:42:24.3945759-06:00
+  initializedAtString: 2018-04-15T17:42:24.3945759-06:00
+  entries:
+  - path: ThaiStories\Assets\Animations\MatchingGameAnimations\PairSelect.anim
+    fullPath: C:\Users\Scott\Documents\GitHub\CS4450\FinalProject\ThaiStories\ThaiStories\Assets\Animations\MatchingGameAnimations\PairSelect.anim
+    projectPath: Assets\Animations\MatchingGameAnimations\PairSelect.anim
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: ThaiStories\Assets\Scenes\Level1.unity
+    fullPath: C:\Users\Scott\Documents\GitHub\CS4450\FinalProject\ThaiStories\ThaiStories\Assets\Scenes\Level1.unity
+    projectPath: Assets\Scenes\Level1.unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: ThaiStories\ProjectSettings\EditorBuildSettings.asset
+    fullPath: C:\Users\Scott\Documents\GitHub\CS4450\FinalProject\ThaiStories\ThaiStories\ProjectSettings\EditorBuildSettings.asset
+    projectPath: ProjectSettings\EditorBuildSettings.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: ThaiStories\ProjectSettings\GraphicsSettings.asset
+    fullPath: C:\Users\Scott\Documents\GitHub\CS4450\FinalProject\ThaiStories\ThaiStories\ProjectSettings\GraphicsSettings.asset
+    projectPath: ProjectSettings\GraphicsSettings.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: ThaiStories\ProjectSettings\ProjectSettings.asset
+    fullPath: C:\Users\Scott\Documents\GitHub\CS4450\FinalProject\ThaiStories\ThaiStories\ProjectSettings\ProjectSettings.asset
+    projectPath: ProjectSettings\ProjectSettings.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: ThaiStories\ProjectSettings\ProjectVersion.txt
+    fullPath: C:\Users\Scott\Documents\GitHub\CS4450\FinalProject\ThaiStories\ThaiStories\ProjectSettings\ProjectVersion.txt
+    projectPath: ProjectSettings\ProjectVersion.txt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: ThaiStories\Assets\Sounds\Pairs.meta
+    fullPath: C:\Users\Scott\Documents\GitHub\CS4450\FinalProject\ThaiStories\ThaiStories\Assets\Sounds\Pairs.meta
+    projectPath: Assets\Sounds\Pairs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: ThaiStories\Assets\Sprites\MatchingImages.meta
+    fullPath: C:\Users\Scott\Documents\GitHub\CS4450\FinalProject\ThaiStories\ThaiStories\Assets\Sprites\MatchingImages.meta
+    projectPath: Assets\Sprites\MatchingImages.meta
+    originalPath: 
+    status: 1
+    staged: 0

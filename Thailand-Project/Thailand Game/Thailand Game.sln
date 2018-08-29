@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thailand Game", "Thailand Game.csproj", "{016287D7-F115-A66B-E35D-A7686973D641}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thailand Game.Plugins", "Thailand Game.Plugins.csproj", "{D1FF385C-6CFC-643B-6E1D-FCEE85DEBD34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{016287D7-F115-A66B-E35D-A7686973D641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{016287D7-F115-A66B-E35D-A7686973D641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{016287D7-F115-A66B-E35D-A7686973D641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{016287D7-F115-A66B-E35D-A7686973D641}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1FF385C-6CFC-643B-6E1D-FCEE85DEBD34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1FF385C-6CFC-643B-6E1D-FCEE85DEBD34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1FF385C-6CFC-643B-6E1D-FCEE85DEBD34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1FF385C-6CFC-643B-6E1D-FCEE85DEBD34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

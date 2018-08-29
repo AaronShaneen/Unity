@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: d65a7a9227295d743b5750bcff069e44
+timeCreated: 1531777962
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Sassoon Infant Std
+  fontNames:
+  - Sassoon Infant Std
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1ef0c3754f9db4e468edade22ea9e79e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

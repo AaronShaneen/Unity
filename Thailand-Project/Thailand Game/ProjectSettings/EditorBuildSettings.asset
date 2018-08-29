@@ -1,0 +1,208 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Level 1/Level1_Cat.unity
+    guid: 7883ebde96132584aa0363a73380bf0d
+  - enabled: 1
+    path: Assets/Scenes/Level 1/Level1_Dog.unity
+    guid: af873f8297709dd49bc9f7cb792cc4d9
+  - enabled: 1
+    path: Assets/Scenes/Level 1/Level1_Family.unity
+    guid: 95f8c347be37455468123f0bfd3b6bf3
+  - enabled: 1
+    path: Assets/Scenes/Level 1/Level1_Instructions.unity
+    guid: 5021b767b302a5f458da64bf675ff0c9
+  - enabled: 1
+    path: Assets/Scenes/Level 1/Level1_waterBuffalo.unity
+    guid: cb31c5eae1a226440929d8bdb046b9eb
+  - enabled: 1
+    path: Assets/Scenes/Level 1/Lvl1_Activity1.unity
+    guid: cb1cccaf1a151484b8b465001fe50ba0
+  - enabled: 1
+    path: Assets/Scenes/Main/Home.unity
+    guid: 98ede8b844cbd2a4c914ad74f518c19c
+  - enabled: 1
+    path: Assets/Scenes/Level 2/Lvl2_Activity2.unity
+    guid: 256a86f2a4b39774483c70c9f0cf345c
+  - enabled: 1
+    path: Assets/Scenes/Level 2/Lvl2_Activity1.unity
+    guid: 13ba37721f7cd1b4189aa10c452a1c1e
+  - enabled: 1
+    path: Assets/Scenes/Level 2/Lvl2_Activity3.unity
+    guid: b700ecf7e08a52545b95e37cab641f39
+  - enabled: 1
+    path: Assets/Scenes/Level 2/Lvl2_Dog_L6.unity
+    guid: 9aa29fb202a9f9f4bb8bcd722e67d8c5
+  - enabled: 1
+    path: Assets/Scenes/Level 2/Lvl2_Dog_L7.unity
+    guid: 11745f122ece6a549bf995ca9dd87b12
+  - enabled: 1
+    path: Assets/Scenes/Level 2/Lvl2_Dog_L8.unity
+    guid: 8ae5a243bc840844c9a60c328f42138e
+  - enabled: 1
+    path: Assets/Scenes/Level 2/Lvl2_Dog_L9.unity
+    guid: f0d67812b420f2a4ead4f29e582b1a2a
+  - enabled: 1
+    path: Assets/Scenes/Level 2/Lvl2_Dog_L10.unity
+    guid: a47c1fc1fa79f2448a2b85ac8eaf330a
+  - enabled: 1
+    path: Assets/Scenes/Level 2/Lvl2_OfflineActivity.unity
+    guid: df4deadb2780c6e4ca950bdb36d55412
+  - enabled: 1
+    path: Assets/Scenes/Level 2/Lvl2_Pregame.unity
+    guid: cfa473574276f114bb4f6621a95c982b
+  - enabled: 1
+    path: Assets/Scenes/Level 2/Lvl2_WaterBuffalo_L0.unity
+    guid: 10d0aa231ce8e554ea516b3781fd789c
+  - enabled: 1
+    path: Assets/Scenes/Level 2/Lvl2_WaterBuffalo_L1.unity
+    guid: 5b3c16367e24ab045a234881324cc201
+  - enabled: 1
+    path: Assets/Scenes/Level 2/Lvl2_WaterBuffalo_L2.unity
+    guid: 297b2dea0c83eee4dba53b7029324ddc
+  - enabled: 1
+    path: Assets/Scenes/Level 2/Lvl2_WaterBuffalo_L3.unity
+    guid: 6c027134653233b44b80d1fb9a62cf96
+  - enabled: 1
+    path: Assets/Scenes/Level 2/Lvl2_WaterBuffalo_L4.unity
+    guid: 31f43e824b9dc95448d22804c0fd52b5
+  - enabled: 1
+    path: Assets/Scenes/Level 2/Lvl2_WaterBuffalo_L5.unity
+    guid: b2423f726386524479b8944ee77cc0cb
+  - enabled: 1
+    path: Assets/Scenes/Level 1/Lvl1_Activity2.unity
+    guid: 23c2793681ec15c43b0bfca1ccd39967
+  - enabled: 1
+    path: Assets/Scenes/Level 1/Lvl1_Activity3.unity
+    guid: 49b4463786413d74286ca2efc5802c13
+  - enabled: 1
+    path: Assets/Scenes/Level 1/Lvl1_OfflineActivity.unity
+    guid: a9930e31d2c173342bf6f9321d0d1b95
+  - enabled: 1
+    path: Assets/Scenes/Level 3/Lvl3-5.unity
+    guid: c7c52e8bd47e0bb478b9946aeec38525
+  - enabled: 1
+    path: Assets/Scenes/Level 3/Lvl3-6.unity
+    guid: c1ec115d0b5c35f40b24faa28afd7e3c
+  - enabled: 1
+    path: Assets/Scenes/Level 3/Lvl3-7.unity
+    guid: 78cd066237347d54a99653537ad23409
+  - enabled: 1
+    path: Assets/Scenes/Level 3/Lvl3-8.unity
+    guid: 7c48ceb9e7f9f6e49a766b8a84c3d0d2
+  - enabled: 1
+    path: Assets/Scenes/Level 3/Lvl3-9.unity
+    guid: a35fce6b5af6c054a939ade50efbe8ca
+  - enabled: 1
+    path: Assets/Scenes/Level 3/Lvl3-1.unity
+    guid: 1be74c7840ded9f43b4228b09f458ee2
+  - enabled: 1
+    path: Assets/Scenes/Level 3/Lvl3-2.unity
+    guid: 2a3909081c9905444b6b1dd852450586
+  - enabled: 1
+    path: Assets/Scenes/Level 3/Lvl3-3.unity
+    guid: a63c2fbbaffb96e47b226042291d426f
+  - enabled: 1
+    path: Assets/Scenes/Level 3/Lvl3-4.unity
+    guid: b4b001a53d72464458169f1257f32cfc
+  - enabled: 1
+    path: Assets/Scenes/Level 3/Lvl3-10.unity
+    guid: 6ea6a0305f84a6f45bc7104adf3d4b40
+  - enabled: 1
+    path: Assets/Scenes/Level 3/Lvl3Mid1.unity
+    guid: fe0f1972987910c43b5e0c79b774144c
+  - enabled: 1
+    path: Assets/Scenes/Level 3/Lvl3Mid2.unity
+    guid: 1f197a3aed2165f4ab0f02f08151afae
+  - enabled: 1
+    path: Assets/Scenes/Level 3/Lvl3Mid3.unity
+    guid: d959057d41b970743a5be99527b75c71
+  - enabled: 1
+    path: Assets/Scenes/Level 3/Lvl3Post.unity
+    guid: 72cb6d75ac774f24e9c5e76d4f2ebca9
+  - enabled: 1
+    path: Assets/Scenes/Level 3/Lvl3Pre.unity
+    guid: e9eb8bc883029aa4787ea992595aef60
+  - enabled: 1
+    path: Assets/Scenes/Level 4/Lvl4-1.unity
+    guid: f0595a950e635a54c863914652fd6da3
+  - enabled: 1
+    path: Assets/Scenes/Level 4/Lvl4-2.unity
+    guid: 05a9e0593e0a23e4b8b0c5c110369558
+  - enabled: 1
+    path: Assets/Scenes/Level 4/Lvl4-3.unity
+    guid: 7b35effd86016cb498697927578eb06b
+  - enabled: 1
+    path: Assets/Scenes/Level 4/Lvl4-4.unity
+    guid: 53ba0bd97a3a68d4288bd8d26b86b7f0
+  - enabled: 1
+    path: Assets/Scenes/Level 4/Lvl4-5.unity
+    guid: 768ec21df16f60642b3895b9fc19651d
+  - enabled: 1
+    path: Assets/Scenes/Level 4/Lvl4-6.unity
+    guid: ce1630dc6ab22c24292fdd296bc81d7d
+  - enabled: 1
+    path: Assets/Scenes/Level 4/Lvl4-7.unity
+    guid: c393ae37b0d89434b8465ee33c9f8b9f
+  - enabled: 1
+    path: Assets/Scenes/Level 4/Lvl4-8.unity
+    guid: 59ae6a9f277c84b43933dba4bfcbb847
+  - enabled: 1
+    path: Assets/Scenes/Level 4/Lvl4-9.unity
+    guid: 78d687613e710fe4a9a239e86ba1aed8
+  - enabled: 1
+    path: Assets/Scenes/Level 4/Lvl4-10.unity
+    guid: bc80798dcd366e84cbbf3565a8083ef0
+  - enabled: 1
+    path: Assets/Scenes/Level 4/Lvl4-11.unity
+    guid: d3d521aeac1dc0a4c8efac474524ac8d
+  - enabled: 1
+    path: Assets/Scenes/Level 4/Lvl4-12.unity
+    guid: 5c878d067499ee9479fe1f48f3d45427
+  - enabled: 1
+    path: Assets/Scenes/Level 4/Lvl4-13.unity
+    guid: 1cbd89f24517b0f43b0ee4a6e32dfeba
+  - enabled: 1
+    path: Assets/Scenes/Level 4/Lvl4-14.unity
+    guid: 68608a21b33e6e54c8085f85b7e7573f
+  - enabled: 1
+    path: Assets/Scenes/Level 4/Lvl4-15.unity
+    guid: 3c631ad13f13c734dbf9a49779ca43c3
+  - enabled: 1
+    path: Assets/Scenes/Level 4/Lvl4-16.unity
+    guid: 0f7b1fa670b0b6949a80db3e2de055c3
+  - enabled: 1
+    path: Assets/Scenes/Level 4/Lvl4-17.unity
+    guid: 882e026f0dcad0245bdd3280a26e35c2
+  - enabled: 1
+    path: Assets/Scenes/Level 4/Lvl4-18.unity
+    guid: 540f4851ef8c88e40ace6c1393e3274c
+  - enabled: 1
+    path: Assets/Scenes/Level 4/Lvl4-19.unity
+    guid: d735da0ae643c1142bc3ed38223d4c29
+  - enabled: 1
+    path: Assets/Scenes/Level 4/Lvl4-20.unity
+    guid: a55269ea29169b1418ebb30b88132d63
+  - enabled: 1
+    path: Assets/Scenes/Level 4/Lvl4-21.unity
+    guid: 0775f1a8f67ef184a9a9b9042b6f7b4e
+  - enabled: 1
+    path: Assets/Scenes/Level 4/Lvl4Mid1.unity
+    guid: bbde76017868fe640a6d0b539e73968f
+  - enabled: 1
+    path: Assets/Scenes/Level 4/Lvl4Mid2.unity
+    guid: 059af1765447a884fb7086fd91d23632
+  - enabled: 1
+    path: Assets/Scenes/Level 4/Lvl4Mid3.unity
+    guid: 733d777aed6c6d348acd8844a1c2d6f9
+  - enabled: 1
+    path: Assets/Scenes/Level 4/Lvl4Post.unity
+    guid: 8a3659eccc1e9f349be6cdfd4ee59a14
+  - enabled: 1
+    path: Assets/Scenes/Level 4/Lvl4Pre.unity
+    guid: b2b9d59e25d412c48b886be1c3f768de
